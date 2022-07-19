@@ -1,0 +1,81 @@
+@font-face {
+  font-family: "Anonymous";
+  src: url("../Fonts/Anonymous.ttf");
+}
+
+.logo {
+  width: 170px !important;
+}
+.sec1 {
+  background-color: #212325;
+}
+.button {
+  font-size: 17px;
+  font-family: sans-serif;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-radius: 5px;
+  background-color: #02efa3;
+  border: #02efa3;
+  box-shadow: 3px 3px 4px 3px #1c548d;
+  cursor: pointer;
+}
+.head {
+  font-size: 15px;
+  color: #5a6166;
+  font-family: "Anonymous";
+}
+.token {
+  padding-top: 120px;
+}
+.ape {
+  font-family: sans-serif;
+  color: white;
+  font-size: 25px;
+}
+.mac {
+  font-weight: 700;
+  font-family: sans-serif;
+  font-size: 50px;
+  color: #000;
+}
+.txt {
+  font-family: sans-serif;
+  color: #5a6166;
+}
+.txt1 {
+  font-family: sans-serif;
+  color: #5a6166;
+  line-height: 45px;
+}
+.con {
+  color: #000;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+.math {
+  font-family: sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  color: #000;
+}
+th {
+  font-family: "Anonymous";
+  font-size: 20px;
+}
+td {
+  font-family: "Anonymous";
+  font-size: 20px;
+}
+.time {
+  font-size: 25px;
+  font-weight: 600;
+  color: #000;
+}
+.timee {
+  font-family: "Anonymous";
+}
+.change {
+}
